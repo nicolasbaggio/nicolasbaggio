@@ -19,6 +19,10 @@ Aqui você encontra exemplos de:
 
 Estou focado em fortalecer minhas habilidades e em aprender novas tecnologias. Este repositório reflete minha jornada como programador, documentando meu progresso e dedicação em cada projeto.
 
+## 🌟 Diferenciais
+
+Minha familiaridade com **metodologias ágeis**, como **Kanban**, contribui para um planejamento eficaz e uma execução organizada de projetos, assegurando a entrega de resultados contínuos e a melhoria contínua dos processos. Tenho um compromisso constante com a **aprendizagem de novas tecnologias** e a **busca por soluções ideais** para cada desafio, o que me permite adaptar-me rapidamente a diferentes cenários e garantir entregas de alto impacto.
+
 ## 📫 Contato
 
 Fique à vontade para entrar em contato comigo para feedback ou colaborações!
