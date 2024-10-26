@@ -1,18 +1,29 @@
-# Nícolas Bastos Bággio - Desenvolvedor Full-Stack
+## Nícolas Bastos Bággio - Estudante de Programação
 
-Sou um desenvolvedor Full-Stack com sólida experiência em tecnologias de front-end e back-end, especializado em desenvolvimento Web e com habilidades complementares em desenvolvimento mobile. Minha expertise abrange **JavaScript** e **TypeScript** no front-end, além de **Node.js** e **Java** para o back-end.
+Bem-vindo ao meu repositório! Sou Nícolas, um estudante de programação, com foco em desenvolvimento Web e conhecimentos em HTML, CSS, JavaScript e Java. Este espaço é dedicado a alguns dos meus projetos, onde aplico o que venho aprendendo e compartilho meu progresso.
+## 🛠️ Habilidades e Tecnologias
 
-## O que eu faço
+- **HTML & CSS**: Criação de interfaces web responsivas e visualmente atraentes.
+- **JavaScript**: Desenvolvimento de funcionalidades dinâmicas e interativas.
+- **Java**: Estruturação de lógica de programação, focada na solução de problemas.
 
-Atualmente, ofereço serviços em plataformas de freelancers, com um histórico de entrega consistente de:
-- **Integração de APIs**: conecto serviços para que as aplicações sejam eficientes e interoperáveis.
-- **Correções de bugs**: soluciono problemas críticos rapidamente, mantendo a estabilidade e a qualidade dos projetos.
-- **Desenvolvimento de novas funcionalidades**: crio recursos inovadores, colaborando com equipes para aprimorar a experiência do usuário.
-- **Desenvolvimento completo de aplicações**: realizo o ciclo de vida do projeto, desde a concepção até a entrega final.
+## 🚀 O que eu faço
 
-## Diferenciais
+Aqui você encontra exemplos de:
 
-Minha familiaridade com **metodologias ágeis**, como **Kanban**, contribui para um planejamento eficaz e uma execução organizada de projetos, assegurando a entrega de resultados contínuos e a melhoria contínua dos processos. Tenho um compromisso constante com a **aprendizagem de novas tecnologias** e a **busca por soluções ideais** para cada desafio, o que me permite adaptar-me rapidamente a diferentes cenários e garantir entregas de alto impacto.
+- **Interfaces Web Responsivas**: Projetos que demonstram o uso de HTML e CSS para criar layouts intuitivos.
+- **Funcionalidades Interativas**: Aplicações com funcionalidades dinâmicas, utilizando JavaScript.
+- **Resolução de Problemas**: Projetos em Java aplicando conceitos de lógica de programação.
+
+## 🎯 Objetivos
+
+Estou focado em fortalecer minhas habilidades e em aprender novas tecnologias. Este repositório reflete minha jornada como programador, documentando meu progresso e dedicação em cada projeto.
+
+## 📫 Contato
+
+Fique à vontade para entrar em contato comigo para feedback ou colaborações!
+- [GitHub](https://github.com/nicolasbaggio)
+- [LinkedIn](https://www.linkedin.com/in/nicolasbaggio/)
 
 ## Tecnologias
 
