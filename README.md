@@ -33,5 +33,5 @@ Minha formação em **Matemática**, combinada com minha familiaridade com **met
 <p></p>
 <div align="center"> 
   <a href = "mailto:nicolasbbaggio@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"></a>
-  <a href="[https://www.linkedin.com/in/mateus-de-souza-devjava/](https://www.linkedin.com/in/nicolasbaggio/)"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://www.linkedin.com/in/nicolasbaggio/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
