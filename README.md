@@ -26,7 +26,7 @@ Minha formação em **Matemática**, combinada com minha familiaridade com **met
     <th colspan="3">Tecnologia</th>
   </tr>
   <tr>
-    <td>🛠️ Linguagens & Frameworks</td>
+    <td>🛠️ Linguagens</td>
     <td>
       <img src="https://skillicons.dev/icons?i=java&theme=light" width="20" align="left"> Java
     </td>
@@ -67,7 +67,18 @@ Minha formação em **Matemática**, combinada com minha familiaridade com **met
     </td>
     <td></td>
   </tr>
+  <tr>
+    <td>🗄️ Banco de Dados</td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" align="left"> MySQL
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="20" align="left"> MariaDB
+    </td>
+    <td></td>
+  </tr>
 </table>
+
 
 ## 📫 Contato
 <div align="center"> 
