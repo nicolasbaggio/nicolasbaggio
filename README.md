@@ -26,7 +26,7 @@ Minha formação em **Matemática**, combinada com minha familiaridade com **met
     <th colspan="3">Tecnologia</th>
   </tr>
   <tr>
-    <td>🛠️ Linguagens</td>
+    <td>🛠️ Linguagens & Frameworks</td>
     <td>
       <img src="https://skillicons.dev/icons?i=java&theme=light" width="20" align="left"> Java
     </td>
@@ -45,8 +45,17 @@ Minha formação em **Matemática**, combinada com minha familiaridade com **met
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" align="left"> CSS
     </td>
-    <td></td>
+    <td>
+      <img src="https://icon.icepanel.io/Technology/svg/Spring.svg" width="20" align="left"> Spring
+    </td>    
   </tr>
+  <tr>
+    <td></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" align="left"> React
+    </td>
+    <td></td>
+    <td></td>
   <tr>
     <td>🧰 IDEs</td>
     <td>
@@ -75,10 +84,16 @@ Minha formação em **Matemática**, combinada com minha familiaridade com **met
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="20" align="left"> MariaDB
     </td>
-    <td></td>
-  </tr>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" align="left"> PostgreSQL
+    </td>
+  </tr>   
 </table>
 
+## 🛠️ Projeto Gerenciador de Tarefas
+É uma aplicação web intuitiva que permite aos usuários organizar suas tarefas diárias de forma eficiente. Com uma interface responsiva, os usuários podem adicionar, visualizar e remover tarefas facilmente, recebendo feedback imediato sobre suas ações. A aplicação foi projetada para oferecer uma experiência fluida e centrada no usuário.
+
+Desenvolvido com **React** no front-end e **Java** com **Spring** no back-end, a aplicação utiliza **Axios** para comunicação com a API e **PostgreSQL** como banco de dados. O projeto foi criado no **IntelliJ IDEA**, destacando não apenas minhas habilidades em desenvolvimento full-stack, mas também minha capacidade de implementar soluções robustas e escaláveis.
 
 ## 📫 Contato
 <div align="center"> 
