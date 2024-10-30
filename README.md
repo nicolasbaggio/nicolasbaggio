@@ -4,16 +4,13 @@
   </a>
 </p>
 
-Bem-vindo ao meu repositório! Sou um Desenvolvedor Back-end. Este espaço é dedicado a alguns dos meus projetos, onde aplico o que venho aprendendo e compartilho meu progresso.
+Sou um desenvolvedor back-end apaixonado por criar soluções inovadoras e eficientes. Minha jornada na programação começou em 2022, quando me encantei pela possibilidade de transformar ideias em realidade através do código. Desde então, tenho me dedicado a aprimorar minhas habilidades e a acompanhar as últimas tendências do mercado.
 
 ## 🚀 O que eu faço
 Aqui você encontra exemplos de:
 - **Interfaces Web Responsivas**: Projetos que demonstram o uso de HTML e CSS para criar layouts intuitivos.
 - **Funcionalidades Interativas**: Aplicações com funcionalidades dinâmicas, utilizando JavaScript.
 - **Resolução de Problemas**: Projetos em Java aplicando conceitos de lógica de programação.
-
-## 🎯 Objetivos
-Estou focado em fortalecer minhas habilidades e em aprender novas tecnologias. Este repositório reflete minha jornada como programador, documentando meu progresso e dedicação em cada projeto.
 
 ## 🌟 Diferenciais
 Minha formação em **Matemática**, combinada com minha familiaridade com **metodologias ágeis**, como **Kanban**, contribui para um planejamento eficaz e uma execução organizada de projetos, assegurando a entrega de resultados contínuos e a melhoria contínua dos processos. Tenho um compromisso constante com a **aprendizagem de novas tecnologias** e a **busca por soluções ideais** para cada desafio, o que me permite adaptar-me rapidamente a diferentes cenários e garantir entregas de alto impacto.
